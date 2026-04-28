@@ -1,0 +1,11 @@
+torch
+numpy
+pandas
+xarray
+netCDF4
+matplotlib
+jupyter
+cdsapi
+requests
+pyarrow
+dask

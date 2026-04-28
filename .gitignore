@@ -1,0 +1,16 @@
+# Data files — download using notebooks/01_data_acquisition.ipynb
+data/
+
+# Jupyter Notebooks (Will upload the code later)
+notebooks/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Windows
+Thumbs.db
