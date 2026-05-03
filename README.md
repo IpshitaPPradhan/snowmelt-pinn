@@ -101,10 +101,7 @@ In practical terms: **1 MJ/m²/day of net solar radiation can melt at most ~2.99
 
 Observed daily melt is computed from SNOTEL SWE differences:
 
-$$
-\text{melt\_obs} = \max\left( \text{SWE}_{t-1} - \text{SWE}_t,\ 0 \right)
-$$
-
+melt_obs = max(SWE_{t-1} - SWE_t, 0)
 
 This captures only SWE decreases (melt-out), not snowfall additions.
 
